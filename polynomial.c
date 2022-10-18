@@ -11,6 +11,7 @@ int main()
     {
         scanf("%d",&b[i]);
     }
+	
     if(m>=n)
     {
 	m-n aakk
@@ -51,3 +52,5 @@ int main()
     }
     return 0;
 }
+
+//hello
